@@ -1,6 +1,7 @@
 {
   "name": "electron-auto-update-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,11 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinkijun/electron-autoupdate-sample.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jinkijun/electron-autoupdate-sample/issues"
-  },
-  "homepage": "https://github.com/jinkijun/electron-autoupdate-sample#readme",
-  "description": ""
+    "url": "https://github.com/jinkijun/electron-autoupdate-sample.git"
+  }
 }
